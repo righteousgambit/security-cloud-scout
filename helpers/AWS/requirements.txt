@@ -1,5 +1,5 @@
 -i https://pypi.org/simple
-certifi==2020.6.20
+certifi==2022.12.7
 chardet==3.0.4
 et-xmlfile==1.0.1
 excel2json-3==0.1.6
